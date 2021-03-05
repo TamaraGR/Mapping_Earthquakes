@@ -14,16 +14,16 @@ A map of earthquakes that happened in the past seven days was developed with the
 - [x]  HTML
 - [x]  CSS
 
-## Deliverable 1
+## Map 1
+A map of earthquakes and tectonic plates 
+![deliverable1](https://github.com/TamaraGR/Mapping_Earthquakes/blob/main/deliverable1.png)
 
-! [deliverable1]()
+## Map2
+A map of major earthquakes
+![deliverable2](https://github.com/TamaraGR/Mapping_Earthquakes/blob/main/deliverable2.png)
 
-## Deliverable 2
+## Map 3 and 4 
+Two additional maps: outdoors layer and dark layer
+![deliverables3](https://github.com/TamaraGR/Mapping_Earthquakes/blob/main/deliverables3.png)
 
-! [deliverable2]()
-
-## Deliverable 3 
-
-! [deliverable3]()
-
-! [deliverable3-b]()
+![deliverable3b](https://github.com/TamaraGR/Mapping_Earthquakes/blob/main/deliverable3b.png)
